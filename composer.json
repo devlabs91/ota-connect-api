@@ -3,7 +3,9 @@
     "description": "Ota connect api",
     "type": "library",
     "license": "MIT",
-    "require": {},
+    "require": {
+        "wsdltophp/packagebase": "^2.0"
+    },
     "autoload": {
         "psr-4": {
             "OtaInterface\\Otaconnect\\": ""
