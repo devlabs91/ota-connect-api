@@ -1,5 +1,5 @@
 {
-    "name": "devlabs91/ota-connect-api",
+    "name": "ota-interface/ota-connect",
     "description": "Ota connect api",
     "type": "library",
     "license": "MIT",
