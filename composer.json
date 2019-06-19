@@ -1,0 +1,12 @@
+{
+    "name": "devlabs91/ota-connect-api",
+    "description": "Ota connect api",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OtaInterface\\Otaconnect": ""
+        }
+    }
+}
